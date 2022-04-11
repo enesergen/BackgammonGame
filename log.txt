@@ -1,0 +1,13 @@
+X :5; Y :3
+X is playing First
+Game Loop Started
+X roll the dices:1 5
+X Player asked Flake that want to play
+X Player choosed playing with First Dice:1
+X has any brokenFlake
+X player asked Flake Column for Dice1
+X player Choose Flake Column:191
+X played first dice:1
+X will play second dice:5
+X asked Flake Column dice:5
+X choose Flake Column:201
